@@ -1,0 +1,112 @@
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\MVCWEF.dll.config
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\MVCWEF.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\MVCWEF.pdb
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Antlr3.Runtime.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\EntityFramework.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\EntityFramework.SqlServer.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Google.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Web.Infrastructure.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Newtonsoft.Json.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Owin.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.Helpers.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.Mvc.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.Optimization.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.Razor.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.WebPages.Deployment.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.WebPages.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.WebPages.Razor.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\WebGrease.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.Helpers.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.Mvc.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.Optimization.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.Razor.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.WebPages.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.WebPages.Deployment.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\System.Web.WebPages.Razor.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Newtonsoft.Json.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Antlr3.Runtime.pdb
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\EntityFramework.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\EntityFramework.SqlServer.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Google.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\obj\Debug\MVCWEF.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\obj\Debug\MVCWEF.dll
+F:\Youtube Channel\Dotnet Mob\MVC\crud without EF\project\MVCWEF\MVCWEF\obj\Debug\MVCWEF.pdb
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\MVCWEF.dll.config
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\MVCWEF.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\MVCWEF.pdb
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Antlr3.Runtime.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\EntityFramework.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\EntityFramework.SqlServer.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Newtonsoft.Json.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Owin.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.Helpers.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.Mvc.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.Optimization.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.Razor.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.WebPages.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\WebGrease.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.Helpers.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.Mvc.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.Optimization.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.Razor.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.WebPages.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Newtonsoft.Json.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Antlr3.Runtime.pdb
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\EntityFramework.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\EntityFramework.SqlServer.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\obj\Debug\MVCWEF.csproj.CoreCompileInputs.cache
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\obj\Debug\MVCWEF.csproj.CopyComplete
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\obj\Debug\MVCWEF.dll
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\obj\Debug\MVCWEF.pdb
+C:\Users\AT\Desktop\Mvc Crud Using ADO.Net Without Entity Framework\MVCWEF\MVCWEF\obj\Debug\MVCWEF.csprojAssemblyReference.cache
